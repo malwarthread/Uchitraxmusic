@@ -1,7 +1,7 @@
 import re
 from os import getenv
 
-from  import load_dotenv
+from dotenv import load_dotenv
 from pyrogram import filters
 
 load_dotenv()
