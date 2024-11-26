@@ -21,7 +21,7 @@ from AviaxMusic.utils.database import (
 from AviaxMusic.utils.decorators.language import LanguageStart
 from AviaxMusic.utils.formatters import get_readable_time
 from AviaxMusic.utils.inline import help_pannel, private_panel, start_panel
-from configuration import filter_users, CREATOR_ID
+from config import filter_users, CREATOR_ID
 from helpers import get_string
 
 
